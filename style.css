@@ -1,0 +1,11 @@
+#wrong {
+    background-color: blue;
+}
+#correct {
+    color: greenyellow;
+}
+header {
+    column-span: inherit;
+}
+
+  
